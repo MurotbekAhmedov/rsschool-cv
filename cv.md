@@ -20,3 +20,8 @@ console.log(multiply)
 No commercial work experience.
 https://decontaplus.uz/ 
 but this site not work at the moment
+### Education
+Mostly courses on youtube
+### Languages
+1 year in Pifagor education center
+pre-intermediate
